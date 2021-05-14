@@ -4,7 +4,7 @@
 
 I'm going to solve all the EPI problems one by one to gain a better understanding on programming interviews.
 
-Markdown | Less | Pretty
+Date | Problems Completed | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
