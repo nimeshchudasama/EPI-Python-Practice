@@ -4,10 +4,9 @@
 
 I'm going to solve all the EPI problems one by one to gain a better understanding on programming interviews.
 
-Date | Problems Completed | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Date | Problems Completed
+--- | ---
+ `05/13/2021` | item 1, item 2, 3, 4,5,6,123,123,12,312,31,23,12,31,23,1,23,12,3,123,12,3
 
 ### Python
 
