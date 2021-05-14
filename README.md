@@ -4,8 +4,10 @@
 
 I'm going to solve all the EPI problems one by one to gain a better understanding on programming interviews.
 
-Additionally, I will document my progress.
-
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 ### Python
 
