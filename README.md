@@ -6,7 +6,8 @@ I'm going to solve all the EPI problems one by one to gain a better understandin
 
 Date | Problems Completed
 --- | ---
- `05/13/2021` | sorted_lists_merge.py
+`05/13/2021` | sorted_lists_merge.py
+`05/14/2021` | None
 
 ### Python
 
